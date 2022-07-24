@@ -1,11 +1,3 @@
-### Hi there 👋
+AsureOS is a custom iso project that got rid of telemetry and useless components that come with Windows. With this method, it provides the players with the maximum performance and low latency that they can get from their computers with the automatic tweaking script included. Since it is open source, you can use XOS with peace of mind.
 
-<!--
-**AsureOS/AsureOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on A CUSTOM ISO 
-- 🌱 I’m currently learning WITH https://www.ntlite.com/
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with my iso 
+Please check the functions and features that the project doesn't support before downloading.
